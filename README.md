@@ -1,27 +1,33 @@
 ## ↓支持一下
 [![GitHub stars](https://img.shields.io/github/stars/itgoyo/Aria2.svg?style=social&label=Star)](https://github.com/itgoyo/Aria2) [![GitHub forks](https://img.shields.io/github/forks/itgoyo/Aria2.svg?style=social&label=Fork)](https://github.com/itgoyo/Aria2/fork) [![GitHub watchers](https://img.shields.io/github/watchers/itgoyo/Aria2.svg?style=social&label=Watch)](https://github.com/itgoyo/Aria2) [![GitHub followers](https://img.shields.io/github/followers/itgoyo.svg?style=social&label=Follow)](https://github.com/itgoyo/Aria2)
 
+   * [Aria2](#aria2)
+      * [webui-aria2](#webui-aria2)
+      * [YAAW](#yaaw)
+      * [Aria2-GUI](#aria2-gui)
+         * [增加chrome插件安装](#增加chrome插件安装)
+         * [关于导入插件老是提示“建议停止开发者模式”解决方法(仅适用于.crx插件)](#关于导入插件老是提示建议停止开发者模式解决方法仅适用于crx插件)
+         * [如果您是Mac用户](#如果您是mac用户)
+   * [Tampermonkey (:rocket:个人比较推荐)](#tampermonkey)
+   * [Proxyee-down](#proxyee-down)
 
+      * [常见问题(<strong>必看</strong>)](#常见问题必看)
+      * [常用功能](#常用功能)
+         * [手动创建任务](#手动创建任务)
+         * [刷新任务下载链接](#刷新任务下载链接)
+   * [如果觉得对您有帮助，想请我喝咖啡](#如果觉得对您有帮助想请我喝咖啡)
 
-  * [Aria2](#aria2)
-  * [Tampermonkey](#tampermonkey)
-  * [Proxyee-down](#proxyee-down)
-     * [常见问题(<strong>必看</strong>)](#常见问题必看)
-     * [常用功能](#常用功能)
-        * [手动创建任务](#手动创建任务)
-        * [刷新任务下载链接](#刷新任务下载链接)
-              
 # Aria2
 
 **aria2是基于命令行的下载工具，不过还好大神们早已开发了各种易用的UI方便我们小白们使用**
 
-最常用的webui-aria2
+## webui-aria2
 [http://ziahamza.github.io/webui-aria2/](http://ziahamza.github.io/webui-aria2/)
 
-也可以用binux大神的YAAW
+## YAAW
 [http://binux.github.io/yaaw/demo/](http://binux.github.io/yaaw/demo/)
 
-本人参照了binux大神的YAAW改了一个Aria2-GUI（带网易云音乐+Chrome离线跳跳龙）
+## Aria2-GUI
 
 [http://kotlinandroid.net/Aria2-GUI](http://kotlinandroid.net/Aria2-GUI/index.html)
 
@@ -37,7 +43,7 @@
 
 完了之后会出现一个命令框，让它一直开着不能断，否则下载也会跟着断
 
-### [http://ziahamza.github.io/webui-aria2/](http://ziahamza.github.io/webui-aria2/)
+如果你是用的是[http://ziahamza.github.io/webui-aria2/](http://ziahamza.github.io/webui-aria2/)
 
 ![](http://omvbl46i3.bkt.clouddn.com/17-6-14/433684.jpg?imageMogr2/thumbnail/700x)
 
@@ -45,7 +51,7 @@
 
 ![](http://omvbl46i3.bkt.clouddn.com/17-6-14/29601690.jpg?imageMogr2/thumbnail/700x)
 
-### [http://binux.github.io/yaaw/demo/](http://binux.github.io/yaaw/demo/)
+如果你是用的是[http://binux.github.io/yaaw/demo/](http://binux.github.io/yaaw/demo/)
 
 ![](http://omvbl46i3.bkt.clouddn.com/17-6-14/44923909.jpg?imageMogr2/thumbnail/700x)
 
@@ -77,7 +83,7 @@
 
 -------
 
-**关于导入插件老是提示“建议停止开发者模式”解决方法(仅适用于.crx插件)**
+### 关于导入插件老是提示“建议停止开发者模式”解决方法(仅适用于.crx插件)
 
 将非官方扩展程序加入chrome的白名单
 
@@ -94,7 +100,7 @@
 
 # Tampermonkey
 
- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN
 
