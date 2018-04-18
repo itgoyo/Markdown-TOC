@@ -5,8 +5,8 @@
 ### ( ´◔ ‸◔')
 
 * [Aria2](#Aria2)
-* [Tampermonkey](Tampermonkey)  :rocket:个人比较推荐
-* [Proxyee-down](Proxyee-down)
+* [Tampermonkey](#Tampermonkey)  :rocket:个人比较推荐
+* [Proxyee-down](#Proxyee-down)
 
 Aria2
 =====
@@ -89,7 +89,7 @@ Aria2
 
 -----
 
-[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)
+Tampermonkey
 ===========
 
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)
@@ -117,9 +117,9 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 这样即可获取下载连接，复制到迅雷或者IMD之类的下载器，让你享受飞一般的感觉。(本人百兆光纤，速度基本保持10m/s左右)
 
 
-[Proxyee-down](https://github.com/monkeyWie/proxyee-down)
+Proxyee-down
 ============
-
+[Proxyee-down](https://github.com/monkeyWie/proxyee-down)
 ### 下载
 - [OneDrive](https://imhx-my.sharepoint.com/:f:/g/personal/pd_imhx_onmicrosoft_com/EnPrybHS3rVFuy_HdcP7RLoBwhb0k5ayJdIzwjU0hCM9-A?e=he0oIz)(推荐)
 - [百度云](https://pan.baidu.com/s/1fgBnWJ0gl6ZkneGkVDIEfQ) 提取码:d92x
@@ -130,7 +130,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 ### 安装成功
 在安装成功之后，**进入浏览器**下载资源时会跳转到创建任务页面，然后选择保存的路径和分段数进行创建下载任务。    
 ![新建任务](https://github.com/monkeyWie/proxyee-down/raw/master/.guide/common/new-task.png)
-**200带宽下的速度　22m/s**
+**　　　　　　　　　　　200带宽下的速度　22m/s**
 ![](http://omvbl46i3.bkt.clouddn.com/31a86ce4817182807062a9f1f717973d.png)
 
 ## 常见问题(**必看**)
